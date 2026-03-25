@@ -207,4 +207,4 @@ Open your browser at **http://localhost:5173**
 
 ## 📝 License
 
-MIT — free to use and modify.
+free to use and modify.
