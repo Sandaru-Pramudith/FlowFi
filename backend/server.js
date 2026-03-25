@@ -15,7 +15,7 @@ app.use("/api/auth", require("./routes/auth"));
 app.use("/api/income", require("./routes/income"));
 app.use("/api/expense", require("./routes/expense"));
 
-app.get("/", (req, res) => res.json({ message: "Expense Tracker API Running" }));
+app.get("/", (req, res) => res.json({ message: "FlowFi API Running" }));
 
 const PORT = process.env.PORT || 5000;
 

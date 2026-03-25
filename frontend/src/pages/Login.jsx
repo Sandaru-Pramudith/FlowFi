@@ -30,7 +30,7 @@ const Login = () => {
   return (
     <div className="auth-page">
       <div className="auth-left">
-        <div className="auth-logo">Expense Tracker</div>
+        <div className="auth-logo">FlowFi</div>
 
         <h1 className="auth-title">Welcome Back</h1>
         <p className="auth-subtitle">Please enter your details to log in</p>

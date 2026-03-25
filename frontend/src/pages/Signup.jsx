@@ -34,7 +34,7 @@ const Signup = () => {
   return (
     <div className="auth-page">
       <div className="auth-left">
-        <div className="auth-logo">Expense Tracker</div>
+        <div className="auth-logo">FlowFi</div>
 
         <h1 className="auth-title">Create an Account</h1>
         <p className="auth-subtitle">Join us today by entering your details below.</p>

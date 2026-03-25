@@ -13,7 +13,7 @@ const Sidebar = () => {
 
   return (
     <aside className="sidebar">
-      <div className="sidebar-logo">Expense Tracker</div>
+      <div className="sidebar-logo">FlowFi</div>
       <div className="sidebar-profile">
         <div className="profile-avatar">
           {user?.profileImage ? (
