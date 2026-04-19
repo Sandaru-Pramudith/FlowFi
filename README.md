@@ -1,6 +1,6 @@
 # 💰 FlowFi — MERN Stack App
 
-A fully responsive, feature-rich personal finance app built with MongoDB, Express, React, and Node.js. Track your income and expenses, visualize financial trends with interactive charts, and export your data to Excel.
+A personal finance app built with MongoDB, Express, React, and Node.js. Track your income and expenses, visualize financial trends with interactive charts, and export your data to Excel.
 
 ---
 
